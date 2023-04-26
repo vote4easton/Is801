@@ -1,0 +1,32 @@
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  ol{
+    font-family: 'Courier New', Courier, monospace; 
+    color: palevioletred;
+    
+  }
+  h1{
+    border: #4CAF50;
+    color: whitesmoke;
+  
+  }
+  h6{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  body {
+    background: url("../assets/img/IMG_1321\ 2.JPG") no-repeat center center fixed;
+    background-size: cover
+  }
+  h5{
+    color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+    
